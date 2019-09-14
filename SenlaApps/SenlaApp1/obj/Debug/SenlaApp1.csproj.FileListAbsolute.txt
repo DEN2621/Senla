@@ -1,0 +1,7 @@
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\bin\Debug\SenlaApp1.exe.config
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\bin\Debug\SenlaApp1.exe
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\bin\Debug\SenlaApp1.pdb
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\obj\Debug\SenlaApp1.csprojAssemblyReference.cache
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\obj\Debug\SenlaApp1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\obj\Debug\SenlaApp1.exe
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp1\obj\Debug\SenlaApp1.pdb

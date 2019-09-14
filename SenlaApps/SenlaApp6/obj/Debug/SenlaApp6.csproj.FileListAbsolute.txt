@@ -1,0 +1,6 @@
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\bin\Debug\SenlaApp6.exe.config
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\bin\Debug\SenlaApp6.exe
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\bin\Debug\SenlaApp6.pdb
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\obj\Debug\SenlaApp6.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\obj\Debug\SenlaApp6.exe
+C:\Users\1\Documents\C#\SenlaApp1\SenlaApp6\obj\Debug\SenlaApp6.pdb
